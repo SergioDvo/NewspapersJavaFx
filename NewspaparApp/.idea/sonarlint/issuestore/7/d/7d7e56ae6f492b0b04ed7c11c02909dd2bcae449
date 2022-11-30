@@ -1,0 +1,13 @@
+
+c	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ßõ§
+h
+java:S1128"MRemove this unused import 'io.github.palexdev.materialfx.controls.MFXButton'.(Ã¾Š–ùÿÿÿÿ
+d
+java:S1192s"IDefine a constant instead of duplicating this literal "Precio: " 3 times.(ªûõ²ÿÿÿÿÿ
+a
+java:S1192t"KDefine a constant instead of duplicating this literal "Sinopsis: " 3 times.(ÀÌÙÎ
+_
+java:S1192r"IDefine a constant instead of duplicating this literal "Titulo: " 3 times.(ñú¹Å
+f
+java:S1192s"KDefine a constant instead of duplicating this literal "Duracion: " 3 times.(ªûõ²ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éú–¸

@@ -1,0 +1,9 @@
+
+f
+java:S36553"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ô™š©
+h
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ëËµš
+m
+java:S6204F"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(’ÔÂåùÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'jakarta.xml.bind.JAXBException'.(¬å†À

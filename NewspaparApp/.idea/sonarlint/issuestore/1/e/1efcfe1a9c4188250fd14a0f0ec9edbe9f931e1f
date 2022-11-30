@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¦Ğù
+J
+java:S1128"(Remove this unused import 'modelo.Type'.(Ş»Ñâıÿÿÿÿ8“»§ò»0
+P
+java:S1128"4Remove this unused import 'servicios.ServiciosType'.(ú»Î8“»§ò»0
+b
+java:S1128"@Remove this unused import 'ui.pantallas.articles.ArticlesState'.( „³ûÿÿÿÿ8“»§ò»0
+b
+java:S1128"FRemove this unused import 'ui.pantallas.readersList.ReadersListState'.(¦öñe8“»§ò»0

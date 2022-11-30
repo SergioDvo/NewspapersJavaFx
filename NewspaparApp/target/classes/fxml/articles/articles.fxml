@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ui.pantallas.articles.ArticlesController">
+    <TableView fx:id="tableArticle" layoutX="51.0" layoutY="138.0" prefHeight="405.0" prefWidth="697.0">
+        <columns>
+            <TableColumn fx:id="id" prefWidth="56.0" text="Id" />
+            <TableColumn fx:id="nameArticle" prefWidth="184.0" text="Article" />
+            <TableColumn fx:id="descriptionArticle" prefWidth="318.0" text="Description" />
+            <TableColumn fx:id="idNewspaper" prefWidth="138.0" text="Id of Newspaper" />
+        </columns>
+    </TableView>
+    <Label layoutX="160.0" layoutY="50.0" prefHeight="64.0" prefWidth="187.0" text="ARTICLES">
+        <font>
+            <Font name="SansSerif Bold Italic" size="36.0" />
+        </font>
+    </Label>
+   <MFXComboBox fx:id="comboBoxType" layoutX="549.0" layoutY="63.0" onAction="#filterByType" prefWidth="150.0" />
+   <Label layoutX="450.0" layoutY="69.0" text="Filter by id">
+      <font>
+         <Font size="18.0" />
+      </font>
+   </Label>
+</AnchorPane>

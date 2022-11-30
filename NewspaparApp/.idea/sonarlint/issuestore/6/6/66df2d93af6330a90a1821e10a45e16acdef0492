@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïá¯Àùÿÿÿÿ
+X
+java:S1128";Remove this unused import 'jakarta.xml.bind.JAXBException'.(¬å†À8„ ªô»0
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8… ªô»0
